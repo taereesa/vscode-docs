@@ -7,6 +7,8 @@ PageTitle: Settings Sync in Visual Studio Code
 DateApproved: 5/7/2020
 MetaDescription: Synchronize your user settings across all your Visual Studio Code instances.
 ---
+NFR reeview est. Sept. 2020 creator VISTA, apachepplet Carisa Teagan
+
 # Settings Sync
 
 >**Note**: Settings Sync is still in Preview and only available on VS Code [Insiders](/insiders).
